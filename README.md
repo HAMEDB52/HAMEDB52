@@ -1,6 +1,7 @@
 Hi there, I'm Hamed Alruwaili 👋
 Data Scientist | AI Engineer | Computer Vision Enthusiast
 I'm a recent Computer Science graduate from Yanbu Industrial College with a passion for transforming complex data into intelligent solutions. I specialize in deep learning, computer vision, and building AI systems that solve real-world problems.
+
 🔭 What I'm Working On
 
 Developing advanced OCR systems for Arabic text recognition
