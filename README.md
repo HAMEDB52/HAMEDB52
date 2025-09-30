@@ -155,6 +155,7 @@ current_focus = {
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4a5568','primaryTextColor':'#fff','primaryBorderColor':'#2d3748','lineColor':'#718096','secondaryColor':'#718096','tertiaryColor':'#a0aec0'}}}%%
 mindmap
   root((AI Journey))
     Advanced NLP
