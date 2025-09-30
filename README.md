@@ -175,28 +175,7 @@ mindmap
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAMEDB52&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMEDB52&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HAMEDB52&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="220" alt="streak graph"  />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HAMEDB52&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy graph" />
-</div>
-
-<br>
 
 ## 📫 Let's Connect!
 
