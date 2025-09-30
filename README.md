@@ -8,11 +8,13 @@ Developing advanced OCR systems for Arabic text recognition
 Building computer vision applications for sign language translation
 Exploring cutting-edge deep learning architectures
 
+
 🚀 Featured Projects
 Arabic Document OCR System
 An advanced optical character recognition system using multi-phase CNN-LSTM with CTC loss for accurate Arabic text extraction from receipts, invoices, and business cards.
 Sign Language Recognition
 A real-time system that translates sign language into speech using computer vision, working with both live camera feeds and static images.
+
 💻 Technical Skills
 Languages & Frameworks:
 
